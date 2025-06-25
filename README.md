@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Full-stack MERN & Next.js developer<br>⛓️ Blockchain dev — Solidity & Clarity<br>🦀 Currently learning Rust<br>⚙️ Passionate about DevOps & Web3<br>🎮 Gamer at heart — ask me what I’m playing<br>🌿 Fun fact: probably high on weeds 😅🥦
+👨‍💻 Full-stack MERN & Next.js developer<br>⛓️ Blockchain dev — Solidity & Clarity<br>🦀 Currently learning Rust<br>⚙️ Passionate about DevOps & Web3<br>🎮 Gamer at heart — ask me what I’m playing<br>🌿 Fun fact: probably high on weeds! 😅
 
 
 ## 🌐 Socials:
